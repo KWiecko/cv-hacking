@@ -9,17 +9,17 @@ Below are sample results of the model.
 
 ### Stylized cafe
 
-#### Original image:
+#### Original image (cafe.jpg):
 ![original image](images/cafe_scaled.PNG)
 
 [//]: # (![]&#40;images/cafe.png?raw=true&#41;)
 
-#### First result of style transfer:
+#### First result of style transfer (cafe.jpg + love_style.jpg):
 
 ![first stylized image](preds/cafe_pred_0.PNG)
 
 [//]: # (![]&#40;?raw=true&#41;)
 
-#### Second result of style transfer:
+#### Second result of style transfer (cafe.jpg + heart-style.jpg):
 
 ![second stylized image](preds/cafe_pred_1.PNG)
