@@ -7,10 +7,19 @@ Enjoy!
 
 Below are sample results of the model.
 
-### Stylized cafe:
+### Stylized cafe
 
-![original image](images/cafe.png)
+#### Original image:
+![original image](images/cafe_scaled.PNG)
 
-![first stylized image](preds/cafe_pred_0.PNG.png)
+[//]: # (![]&#40;images/cafe.png?raw=true&#41;)
 
-![second stylized image](preds/cafe_pred_1.PNG.png)
+#### First result of style transfer:
+
+![first stylized image](preds/cafe_pred_0.PNG)
+
+[//]: # (![]&#40;?raw=true&#41;)
+
+#### Second result of style transfer:
+
+![second stylized image](preds/cafe_pred_1.PNG)
